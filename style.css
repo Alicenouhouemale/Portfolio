@@ -108,9 +108,15 @@ width: 60%;
 
 }
 
-#work{
+#work {
 margin: 20px;
 padding: 5px;
+width: 75%;
+height: 200px;
+position: relative;
+}
+
+#work img{
 width: 100%;
 height: 200px;
 position: relative;
