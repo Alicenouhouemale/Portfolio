@@ -121,3 +121,8 @@ width: 100%;
 height: 200px;
 position: relative;
 }
+
+footer{
+margin: 5px;
+padding: 10px;
+}
